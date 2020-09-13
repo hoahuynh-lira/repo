@@ -790,7 +790,7 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 472
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libllvm10, libclang-cpp10, ld64, libclang-common-10-dev
-Filename: debs/1443.00/clang-10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
+Filename: debs/clang-10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
 Size: 43866
 MD5sum: 4c5ac1b56636f99fd03f8a7a675b94c2
 SHA1: 1012a275f8119753d91cb0868a532375983f723f
@@ -1243,7 +1243,7 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 9648
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libllvm10, libclang-cpp10
-Filename: debs/1443.00/debugserver-10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
+Filename: debs/debugserver-10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
 Size: 188716
 MD5sum: a81d9cb22d39678e9898f36da8934f05
 SHA1: 16f6f9cb10395c9a0f04533bb7cdebf5b54140b8
@@ -2807,7 +2807,7 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 9840
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libllvm10
-Filename: debs/1443.00/libc++-10-dev_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
+Filename: debs/libc++-10-dev_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
 Size: 406356
 MD5sum: 54d0c49936c49df886d1ac64579f409f
 SHA1: 9500016b5634f1bbb59749053679a91f8ee7eef6
@@ -2879,7 +2879,7 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 14032
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libllvm10
-Filename: debs/1443.00/libclang-common-10-dev_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
+Filename: debs/libclang-common-10-dev_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
 Size: 370464
 MD5sum: b600a9edc5816d947b22bd9b4bda9ce8
 SHA1: 352c6bf0556e7aa74284f28e07e966ae1da9a194
@@ -2897,7 +2897,7 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 79040
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libllvm10
-Filename: debs/1443.00/libclang-cpp10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
+Filename: debs/libclang-cpp10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
 Size: 8381616
 MD5sum: f8b2398d54ce7f28a9959ebfd9fdd78f
 SHA1: e3a8182fe51ad10cdd53acae6cc03383f62ecc15
@@ -3316,7 +3316,7 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 31352
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libllvm10, libclang-cpp10, xz, python
-Filename: debs/1443.00/liblldb-10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
+Filename: debs/liblldb-10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
 Size: 3388502
 MD5sum: 6b79c06a43daf78e7041cce31dbe2e33
 SHA1: a2cb699259b927ddedc82aeaaaa522af2d7bbb7f
@@ -3335,7 +3335,7 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 138632
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses (>= 6.0)
-Filename: debs/1443.00/libllvm10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
+Filename: debs/libllvm10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
 Size: 14374146
 MD5sum: e18ae97a62a47352b23910b0183624c7
 SHA1: 4fa84b2bf9b949231933f930818cb65207e344aa
@@ -3353,7 +3353,7 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 376
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libllvm10
-Filename: debs/1443.00/liblto10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
+Filename: debs/liblto10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
 Size: 32334
 MD5sum: e20ac8a165b68ff50b5fde093930f44c
 SHA1: 33f354159bad2ef351b950d1e5f45196df43491c
@@ -4269,7 +4269,7 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 480
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: libllvm10, libclang-cpp10
-Filename: debs/1443.00/libtapi10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
+Filename: debs/libtapi10_10.0.0~svn-20191106+dcaf932-1_iphoneos-arm.deb
 Size: 53126
 MD5sum: de2a41d09acebf068a19568f6824abd8
 SHA1: e3e1438816b334caec4fe640c44c8eb57c4e60e7
