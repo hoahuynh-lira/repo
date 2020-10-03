@@ -80,9 +80,9 @@ Installed-Size: 59220
 Depends: dpkg, uikittools, firmware (>= 9.0)
 Filename: debs/xyz.willy.zebra_1.1.13_iphoneos-arm.deb
 Size: 19129546
-MD5sum: fdb76b800edb02dd90b773f590566acb
-SHA1: 9439edf325754784954b48495f959f21851d6d90
-SHA256: ef3d88da511b0f14515d3e6c1c6743e0b67668f812f4464117c91ee2e2f78f9c
+MD5sum: 469ce76f88743902632e6ffbdc02249d
+SHA1: 4dfbe391434c89b483387365c0bc458b17acd2b5
+SHA256: fb44e8e394c7db43df93fc26f086759a0c81aecd6164a2877dcc2cb75c57e9c8
 Section: Packaging
 Description: A Useful Package Manager
 Tag: compatible::9.0-13.5
