@@ -72,6 +72,24 @@ Icon: https://getsileo.app/img/icon.png
 Name: Sileo LiRa (Coming Soon)
 Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
+Package: xyz.willy.zebra
+Version: 1.1.13
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres <wilson@styres.me>
+Installed-Size: 59220
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: debs/xyz.willy.zebra_1.1.13_iphoneos-arm.deb
+Size: 19129546
+MD5sum: fdb76b800edb02dd90b773f590566acb
+SHA1: 9439edf325754784954b48495f959f21851d6d90
+SHA256: ef3d88da511b0f14515d3e6c1c6743e0b67668f812f4464117c91ee2e2f78f9c
+Section: Packaging
+Description: A Useful Package Manager
+Tag: compatible::9.0-13.5
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Name: Zebra
+
 Package: 3proxy
 Version: 0.5.3k-1
 Architecture: iphoneos-arm
