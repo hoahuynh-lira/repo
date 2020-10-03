@@ -1430,18 +1430,18 @@ Description: the standard text editor, 'nuff said
 Tag: purpose::console, role::hacker
 
 Package: essential
-Version: 0-2
+Version: 2-0
 Architecture: iphoneos-arm
 Essential: yes
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 8
+Maintainer: Hòa Huỳnh
+Installed-Size: 0
 Pre-Depends: bootstrap | dpkg (>= 1.13.25-5)
-Depends: cydia | com.ripdev.icy, cy+model.iphone (<< 11.0) | cy+model.ipad (<< 11.0) | cy+model.ipod | science.xnu.substituted, cy+model.iphone (<< 11.0) | cy+model.ipad (<< 11.0) | cy+model.ipod | com.ex.substitute
-Filename: debs/essential_0-2_iphoneos-arm.deb
-Size: 724
-MD5sum: 337a88326c63945485de150245a57a4e
-SHA1: 9276d38b69b539ed493a0b281861664b6ca723ae
-SHA256: 116e654351958396851a3ebe43a3e5a1b709bd8325765789aaa17c37b1d5a26b
+Depends:
+Filename: debs/essential_2-0_iphoneos-arm.deb
+Size: 852
+MD5sum: d3d2e966e392b76cec02e9fc49422876
+SHA1: ef2c90076da5a514a5c67bc26aa2da43f0604ef9
+SHA256: 1186953c0489f0620150b2b8b096aaf08d1e2bda2f9daf5c248e7cb9b42a307e
 Section: System
 Priority: required
 Description: contains nothing, represents everything
