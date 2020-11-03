@@ -50,28 +50,6 @@ Dev: dustinhowett
 Name: PreferenceLoader
 Sileodepiction: https://repo.theodyssey.dev/depictions/json/preferenceloader.json
 
-Package: sileo-lira
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Hoà Huỳnh
-Installed-Size: 11364
-Pre-Depends: debianutils, dpkg (>= 1.18)
-Depends: apt (>= 1.8.0), libapt (>= 1.8.2-4), libapt-pkg5.0 (>=1.8.2-4), apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), zsh | bash, cy+cpu.arm64, firmware(>=13.0) | org.swift.libswift (>=5.0)
- Conflicts: cydia (>= 2.0)
-Filename: debs/
-Size: 4374704
-MD5sum: e28ba62832207fcd7b4aaf3342431075
-SHA1: 54d20cb519c18f43b8c07a6d06b172e62e6ff747
-SHA256: 33e5dd05b1a61365726ec7a799dfa3c3bdf2f70f85f1b8e1afbcccdd682d362a
-Section: Packaging
-Priority: required
-Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
-Tag: cydia::essential, compatible_min::ios11.0, compatible_max::ios14.2
-Author: Sileo Team <getsileoapp@gmail.com>
-Icon: https://getsileo.app/img/icon.png
-Name: Sileo LiRa (Coming Soon)
-Sileodepiction: https://featuredpage.getsileo.app/depiction.json
-
 Package: xyz.willy.zebra
 Version: 1.2~beta6a
 Architecture: iphoneos-arm
