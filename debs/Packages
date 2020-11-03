@@ -1,0 +1,69 @@
+Package: com.hoahuynh.libhookerlira
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64, com.hoahuynh.safemodelira
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, libhooker-strap, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 2.0), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
+Filename: debs/com.hoahuynh.libhookerlira_2.0_iphoneos-arm.deb
+Size: 92082
+MD5sum: db78686b0986845247542979fcce489c
+SHA1: 28e6c73126f3a4a666e9c6e2dadf2581b24b898f
+SHA256: 66f986dd3bd231772a0e92cd44e5a19e5e84a9dc5f58a45aca31e0bb5d6a0204
+Section: System
+Description: General Purpose Injection and Hooking library for 64-bit devices
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: Libhooker LiRa
+
+Package: com.hoahuynh.safemodelira
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Hòa Huỳnh
+Depends: firmware (>= 11.0), cy+cpu.arm64
+Replaces: org.coolstar.libhooker (<<1.2.5)
+Filename: debs/com.hoahuynh.safemodelira_2.0_iphoneos-arm.deb
+Size: 75840
+MD5sum: 45c5178e00668267b42ef66e4e6ad608
+SHA1: 023cdf9fe749a67d413d6f0e55d55ed4c21a49ef
+SHA256: 887780549a882ebeac9e7f59061e17ff6fa61d6aa557bc7029165999ba2916aa
+Section: System
+Description: Safe Mode app
+Author: Hòa Huỳnh
+Name: Safe Mode LiRa
+
+Package: preferenceloader
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: mobilesubstrate
+Filename: debs/preferenceloader_3.0.2_iphoneos-arm.deb
+Size: 16744
+MD5sum: 2ce56dc9298e30faac2ee9e832a33e41
+SHA1: ba96fbd660f9f0981ddff644bffa3a63638dae1b
+SHA256: cf088765311c630c847c15b2a88b3863d34c7069a7d96c483138aa16b45c6b54
+Section: System
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Dev: dustinhowett
+Name: PreferenceLoader
+Sileodepiction: https://repo.theodyssey.dev/depictions/json/preferenceloader.json
+
+Package: xyz.willy.zebra
+Version: 1.2~beta6a
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres <wilson@styres.me>
+Installed-Size: 34700
+Depends: dpkg, uikittools, firmware (>= 11.0)
+Filename: debs/xyz.willy.zebra_1.2beta6a_iphoneos-arm.deb
+Size: 18038928
+MD5sum: c3f8ed9fd0173f20248f5061456a616b
+SHA1: bb4997579590230f6035a7175ec0135e928d9175
+SHA256: 28cbb32a3dfaf5fb9ae0352c0c24666f54340c957c16676305310748f73ec7e0
+Section: Packaging
+Description: A Useful Package Manager
+Tag: compatible_min::ios11.0, compatible_max::ios14.2
+Author: Wilson Styres <wilson@styres.me>
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Name: Zebra
