@@ -65,5 +65,4 @@ Section: Packaging
 Description: A Useful Package Manager
 Tag: compatible_min::ios11.0, compatible_max::ios14.2
 Author: Wilson Styres <wilson@styres.me>
-Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
 Name: Zebra
