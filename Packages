@@ -57,10 +57,10 @@ Maintainer: Wilson Styres <wilson@styres.me>
 Installed-Size: 34700
 Depends: dpkg, uikittools, firmware (>= 11.0)
 Filename: debs/xyz.willy.zebra_1.2beta6a_iphoneos-arm.deb
-Size: 18038928
-MD5sum: c3f8ed9fd0173f20248f5061456a616b
-SHA1: bb4997579590230f6035a7175ec0135e928d9175
-SHA256: 28cbb32a3dfaf5fb9ae0352c0c24666f54340c957c16676305310748f73ec7e0
+Size: 18038886
+MD5sum: 84b9776ea7c22e38879f75b3f9b56d5e
+SHA1: 7f7bda929478f56d8888aad5e909be3b83c31d4c
+SHA256: d34ab76ad84f5399431d2f21edb4f46c2a969f2075c503edc9960174e0990d16
 Section: Packaging
 Description: A Useful Package Manager
 Tag: compatible_min::ios11.0, compatible_max::ios14.2
